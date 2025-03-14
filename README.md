@@ -1,7 +1,7 @@
 # Atividade no GitHub
 ## Descrição
 
-Repositório criado com o objetivo de realizar práticas no GitHub
+**Repositório criado com o objetivo de realizar práticas no GitHub**
 
 * Algumas práticas
   * Criação de repositórios
